@@ -1,0 +1,4 @@
+tensorflow
+tensorflowjs
+pillow
+numpy
